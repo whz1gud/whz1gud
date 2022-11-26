@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding and Sports!
 - 🌱 I’m currently learning C, and Assembly languages
 - 📫 You can reach me via email: mielkus.vytautas@gmail.com
+- Open for any kind of suggestions :)
 
 <!---
 whz1gud/whz1gud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
