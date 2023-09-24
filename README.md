@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whz1gud
 - 👀 I’m interested in Coding and Sports!
-- 🌱 I’m currently learning C, and Assembly languages
+- 🌱 I’m currently learning C#, JavaScript and Web Development.
 - 📫 You can reach me via email: mielkus.vytautas@gmail.com
 - Open for any kind of suggestions :)
 
